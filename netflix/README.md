@@ -1,16 +1,16 @@
-# netflix
+# Netflix
+Kullanılan Widgetler:
+ - Future<List<Filmler>> / FutureBuilder
+ - SingleChildScrollView
+ - initState()
+ - _buildCategory() / _buildMainMovie()
+ - ListView.builder
+ .
+ .
+ .
+ .
+ .   
+![1](https://github.com/Topkir/Netflix/assets/63725705/67fad67e-3a1b-4ec6-842a-57938398df30)
+![2](https://github.com/Topkir/Netflix/assets/63725705/0049fb3b-2f4f-46fe-8fac-b9c09f7d000b)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
