@@ -1,10 +1,11 @@
-# Netflix
-Kullanılan Widgetler:
+# Netflix Arayüz Tasarımı
+Widgetler / Teknolojiler:
  - Future<List<Filmler>> / FutureBuilder
  - SingleChildScrollView
  - initState()
  - _buildCategory() / _buildMainMovie()
  - ListView.builder
+ - Navigation
  .
  .
  .
