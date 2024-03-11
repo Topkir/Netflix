@@ -4,8 +4,9 @@ Widgetler / Teknolojiler:
  - SingleChildScrollView
  - initState()
  - _buildCategory() / _buildMainMovie()
- - ListView.builder
+ - ListView.builder / GridView
  - Navigation
+ - 
  .
  .
  .
